@@ -31,10 +31,10 @@ Before running this application, make sure you have:
 
 ## Files Created:
 
-server.js - Complete backend with all API endpoints and Socket.IO handling
-index.html - Full frontend client with beautiful UI
-package.json - All required dependencies
-README.md - Comprehensive setup and usage instructions
+- **server.js** - Complete backend with all API endpoints and Socket.IO handling
+- **index.html** - Full frontend client with beautiful UI
+- **package.json** - All required dependencies
+- **README.md** - Comprehensive setup and usage instructions
 
 ## Quick Setup:
 
@@ -50,8 +50,8 @@ README.md - Comprehensive setup and usage instructions
 
 ## Key Features Highlights:
 
-Secure Authentication: Passwords are hashed, JWT tokens for sessions
-Real-time Updates: Messages, online status, typing indicators all update instantly
-Modern UI: Clean, responsive design with animations and hover effects
-Error Handling: Comprehensive error handling and user feedback
-Scalable Architecture: Clean separation of concerns, easily extensible
+- **Secure Authentication**: Passwords are hashed, JWT tokens for sessions
+- **Real-time Updates**: Messages, online status, typing indicators all update instantly
+- **Modern UI**: Clean, responsive design with animations and hover effects
+- **Error Handling**: Comprehensive error handling and user feedback
+- **Scalable Architecture**: Clean separation of concerns, easily extensible
